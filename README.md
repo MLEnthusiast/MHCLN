@@ -1,7 +1,7 @@
 # MHCLN 
 Deep Metric and Hash Code Learning Network
 
-<img align="center" width="100" height="100" src="./UCMD/imgs/overview_mhcln.png>
+![alt tag](./UCMD/imgs/overview_mhcln.png)
 
 Code for [paper](https://www.igarss2018.org/Papers/viewpapers.asp?papernum=3006) 
 **DEEP METRIC AND HASH-CODE LEARNING FOR CONTENT-BASED RETRIEVAL OF REMOTE SENSING IMAGES** 
