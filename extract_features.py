@@ -112,7 +112,7 @@ def main_graph(self):
     extracted_features = generate_test_train_set(root_rgb=FLAGS.images_dir)
 
     # dump into a pickle file
-    with open('features_2.pkl', 'wb') as f:
+    with open('features.pkl', 'wb') as f:
         pickle.dump(extracted_features, f)
 
 if __name__ == '__main__':
