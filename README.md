@@ -25,8 +25,9 @@ First, download [UCMD] (http://weegee.vision.ucmerced.edu/datasets/landuse.html)
 Next, download the pre-trained Tensorflow models following the instructions in [this] (https://www.tensorflow.org/tutorials/image_recognition) page.
 
 To extract the feature re-presentations from a pre-trained model:
-  $ python extract_features.py \
+  `$ python extract_features.py \
     --model_dir=your/localpath/to/models \
     --images_dir=your/localpath/to/images/parentfolder \
-    --dump_dir
+    --dump_dir`
+
 
