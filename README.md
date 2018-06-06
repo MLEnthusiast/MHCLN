@@ -24,19 +24,19 @@ First, download [UCMD](http://weegee.vision.ucmerced.edu/datasets/landuse.html) 
 
 Next, download the pre-trained Tensorflow models following the instructions in [this] (https://www.tensorflow.org/tutorials/image_recognition) page.
 
-To extract the feature re-presentations from a pre-trained model:  <br><br>
+To extract the feature re-presentations from a pre-trained model:  <br>
   `$ python extract_features.py \`  
     `--model_dir=your/localpath/to/models \`  
     `--images_dir=your/localpath/to/images/parentfolder \`  
     `--dump_dir`  
 
-To prepare the training and the testing set: <br><br>
+To prepare the training and the testing set: <br>
   `$ python dataset_generator.py --train_test_split=0.6`
   
-To train the network. It is to be noted that same `train_test_split` should be used as above: <br><br>
-  `$ python trainer.py\`
-  `--HASH_BITS=32 --ALPHA=0.2 --BATCH_SIZE=90\`
+To train the network. It is to be noted that same `train_test_split` should be used as above: <br>
+  `$ python trainer.py\`  
+  `--HASH_BITS=32 --ALPHA=0.2 --BATCH_SIZE=90\`  
   `--ITERS=10000 --train_test_split=0.6`
 
-To evaluate the performance and save the retrieved samples:<br><br>
+To evaluate the performance and save the retrieved samples:<br>
   `$ python eval.py --k=20 --interval=10`
