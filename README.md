@@ -8,3 +8,10 @@ Code for [paper](https://www.igarss2018.org/Papers/viewpapers.asp?papernum=3006)
 accepted in the International Conference on Geoscience and Remote Sensing Symposium (**IGARSS**) 
 to be held in *Valencia, Spain* in July, 2018.
 
+# Prerequisites
+- Python 2.7
+- Tensorflow GPU 1.2.0
+- Scipy 1.1.0
+- Pillow 5.1.0
+
+**N.B.** The code has only been tested with Python 2.7 and Tensorflow GPU 1.2.0. Higher versions of the software should also work properly.
