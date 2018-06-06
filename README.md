@@ -1,12 +1,13 @@
-# MHCLN 
-Deep Metric and Hash Code Learning Network
-
-![alt tag](./UCMD/imgs/overview_mhcln.png)
+# MHCLN - Deep Metric and Hash Code Learning Network
 
 Code for [paper](https://www.igarss2018.org/Papers/viewpapers.asp?papernum=3006) 
 **DEEP METRIC AND HASH-CODE LEARNING FOR CONTENT-BASED RETRIEVAL OF REMOTE SENSING IMAGES** 
 accepted in the International Conference on Geoscience and Remote Sensing Symposium (**IGARSS**) 
 to be held in *Valencia, Spain* in July, 2018.
+
+# Overall Architecture og MHCLN
+
+![Overall Architecture og MHCLN](./UCMD/imgs/overview_mhcln.png)
 
 # Prerequisites
 - Python 2.7
