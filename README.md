@@ -17,6 +17,7 @@ to be held in *Valencia, Spain* in July, 2018.
 
 **N.B.** The code has only been tested with Python 2.7 and Tensorflow GPU 1.2.0. Higher versions of the software should also work properly.
 
-In our paper we have experimented with two remote sensing benchmark archives - [**UCMD**](http://weegee.vision.ucmerced.edu/datasets/landuse.html) and [**AID**](https://arxiv.org/abs/1608.05167)
+In our paper we have experimented with two remote sensing benchmark archives - [**UC Merced Data Set**](http://weegee.vision.ucmerced.edu/datasets/landuse.html) (UCMD) and [**AID**](https://arxiv.org/abs/1608.05167)
 
 # Usage
+First, download 
