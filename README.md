@@ -41,10 +41,13 @@ To train the network. It is to be noted that same `train_test_split` should be u
 To evaluate the performance and save the retrieved samples:<br>
   `$ python eval.py --k=20 --interval=10`
 
-## Retrieval Results  
+# Retrieval Results  
 Retrieval results for some sample query images. The query is enclosed by the blue box. The retrieved images are sorted in decreasing order of *proximity* or *semantic similarity* from the query image. Top 19 results are displayed.  
 
-# UCMD
+## UCMD  
+Query - Harbour  
+![alt tag](./UCMD/imgs/sample_230.png)  
 
-![alt tag](./UCMD/imgs/sample_230.png) ![alt tag](./UCMD/imgs/sample_460.png)  
-![alt tag](./UCMD/imgs/sample_560.png) ![alt tag](./UCMD/imgs/sample_760.png)
+Query - Runway  
+![alt tag](./UCMD/imgs/sample_460.png)  
+
