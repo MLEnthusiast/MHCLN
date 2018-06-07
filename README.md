@@ -46,6 +46,6 @@ Retrieval results for some sample query images. The query is enclosed by the blu
 
 ## UCMD  
 
-Solarized dark             |  Solarized Ocean
+Query - Harbour             |  Query - Runway 
 :-------------------------:|:-------------------------:
-![alt tag](./UCMD/imgs/sample_230.pn)  |  ![alt tag](./UCMD/imgs/sample_460.png)
+![alt tag](./UCMD/imgs/sample_230.png)  |  ![alt tag](./UCMD/imgs/sample_460.png)
