@@ -28,7 +28,7 @@ To extract the feature representations from a pre-trained model:  <br>
   `$ python extract_features.py \`  
     `--model_dir=your/localpath/to/models \`  
     `--images_dir=your/localpath/to/images/parentfolder \`  
-    `--dump_dir`  
+    `--dump_dir=dump_dir/`  
 
 To prepare the training and the testing set: <br>
   `$ python dataset_generator.py --train_test_split=0.6`
