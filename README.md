@@ -45,9 +45,7 @@ To evaluate the performance and save the retrieved samples:<br>
 Retrieval results for some sample query images. The query is enclosed by the blue box. The retrieved images are sorted in decreasing order of *proximity* or *semantic similarity* from the query image. Top 19 results are displayed.  
 
 ## UCMD  
-Query - Harbour  
-![alt tag](./UCMD/imgs/sample_230.png)  
 
-Query - Runway  
-![alt tag](./UCMD/imgs/sample_460.png)  
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![alt tag](./UCMD/imgs/sample_230.pn)  |  ![alt tag](./UCMD/imgs/sample_460.png)
