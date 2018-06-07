@@ -20,7 +20,7 @@ to be held in *Valencia, Spain* in July, 2018.
 In our paper we have experimented with two remote sensing benchmark archives - [**UC Merced Data Set**](http://weegee.vision.ucmerced.edu/datasets/landuse.html) (UCMD) and [**AID**](https://arxiv.org/abs/1608.05167). Code for the respective data sets have been provided in separate folders.
 
 # Usage
-First, download [UCMD](http://weegee.vision.ucmerced.edu/datasets/landuse.html) dataset or the [AID]() dataset and save them on the disk. For the UCMD dataset the parent folder will contain 21 sub-folders, each containing 100 images for each category. Whereas, for the AID dataset the parent folder will contain 30 sub-folder, cumulatively containing 10,000 images.
+First, download [UCMD](http://weegee.vision.ucmerced.edu/datasets/landuse.html) dataset or the [AID]() dataset and save them on the disk. For the UCMD dataset the parent folder will contain 21 sub-folders, each containing 100 images for each category. Whereas, for the AID dataset the parent folder will contain 30 sub-folders, cumulatively containing 10,000 images.
 
 Next, download the pre-trained Tensorflow models following the instructions in [this](https://www.tensorflow.org/tutorials/image_recognition) page.
 
