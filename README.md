@@ -48,4 +48,8 @@ Retrieval results for some sample query images. The query is enclosed by the blu
 
 Query - Harbour             |  Query - Runway 
 :-------------------------:|:-------------------------:
-![alt tag](./UCMD/imgs/sample_230.png)  |  ![alt tag](./UCMD/imgs/sample_460.png)
+![alt tag](./UCMD/imgs/sample_230.png)  |  ![alt tag](./UCMD/imgs/sample_460.png)  
+
+Query - Medium Residential             |  Query - Airplane 
+:-------------------------:|:-------------------------:
+![alt tag](./UCMD/imgs/sample_560.png)  |  ![alt tag](./UCMD/imgs/sample_760.png)
