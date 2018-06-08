@@ -148,7 +148,7 @@ def eval(self):
         map = get_mAP(neighbours, FLAGS.k)
         total_map += map
 
-        if idx % FLAGS.interval == 0:
+        if idx % FLAGS.interval == FLAGS.interval:
             print('{0} files remaining.'.format(len(test_encodings) - idx - 1))
             f_str = './hamming_out/sample_' + str(idx) + '.png'
             plot_or_save_singlelabel_images(neighbours, f_str)
@@ -163,13 +163,13 @@ if __name__ == '__main__':
         '--k',
         type=int,
         default=20,
-        help="Number of closest matches to the query image"
+        help="Number of closest matches to the query image. Default 20."
     )
     parser.add_argument(
         '--interval',
         type=int,
         default=10,
-        help="Interval of output images"
+        help="Interval of output images. Deafult 10"
     )
     FLAGS, unparsed = parser.parse_known_args()
     tf.app.run(main=eval, argv=[sys.argv[0]] + unparsed)
