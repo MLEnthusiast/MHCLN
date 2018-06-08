@@ -54,4 +54,14 @@ Query - Harbour             |  Query - Runway
 
 Query - Medium Residential             |  Query - Airplane 
 :-------------------------:|:-------------------------:
-![alt tag](./UCMD/imgs/sample_560.png)  |  ![alt tag](./UCMD/imgs/sample_760.png)
+![alt tag](./UCMD/imgs/sample_560.png)  |  ![alt tag](./UCMD/imgs/sample_760.png)  
+
+## AID  
+
+Query - Bareland             |  Query - Mountains 
+:-------------------------:|:-------------------------:
+![alt tag](./UCMD/imgs/sample_199.png)  |  ![alt tag](./UCMD/imgs/sample_1999.png)  
+
+Query - Viaduct             |  Query - Beach 
+:-------------------------:|:-------------------------:
+![alt tag](./UCMD/imgs/sample_3899.png)  |  ![alt tag](./UCMD/imgs/sample_399.png)
