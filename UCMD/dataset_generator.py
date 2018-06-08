@@ -4,6 +4,8 @@ import argparse
 import tensorflow as tf
 import os
 import sys
+sys.path.append(os.getcwd())
+sys.path.append('../')
 
 FLAGS = None
 
