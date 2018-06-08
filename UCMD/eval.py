@@ -148,7 +148,7 @@ def eval(self):
         map = get_mAP(neighbours, FLAGS.k)
         total_map += map
 
-        if idx % FLAGS.interval == FLAGS.interval:
+        if idx % FLAGS.interval == (FLAGS.interval - 1):
             print('{0} files remaining.'.format(len(test_encodings) - idx - 1))
             f_str = './hamming_out/sample_' + str(idx) + '.png'
             plot_or_save_singlelabel_images(neighbours, f_str)
