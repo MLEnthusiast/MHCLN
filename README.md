@@ -60,8 +60,8 @@ Query - Medium Residential             |  Query - Airplane
 
 Query - Bareland             |  Query - Mountains 
 :-------------------------:|:-------------------------:
-![alt tag](./UCMD/imgs/sample_199.png)  |  ![alt tag](./UCMD/imgs/sample_1999.png)  
+![alt tag](./AID/imgs/sample_199.png)  |  ![alt tag](./AID/imgs/sample_1999.png)  
 
 Query - Viaduct             |  Query - Beach 
 :-------------------------:|:-------------------------:
-![alt tag](./UCMD/imgs/sample_3899.png)  |  ![alt tag](./UCMD/imgs/sample_399.png)
+![alt tag](./AID/imgs/sample_3899.png)  |  ![alt tag](./AID/imgs/sample_399.png)
