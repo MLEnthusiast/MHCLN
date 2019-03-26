@@ -43,6 +43,7 @@ To train the network. It is to be noted that same `train_test_split` should be u
 To evaluate the performance and save the retrieved samples:<br>
   `$ python eval.py --k=20 --interval=10`
 
+Train and test splits are provided [here](https://drive.google.com/open?id=13D3zrX0D0vr4Uz6aiZ9H9bsBr6No3vbm)
 # Retrieval Results  
 Retrieval results for some sample query images. The query is enclosed by the blue box. The retrieved images are sorted in decreasing order of *proximity* or *semantic similarity* from the query image. Top 19 results are displayed.  
 
