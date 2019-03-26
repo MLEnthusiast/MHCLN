@@ -43,7 +43,7 @@ To train the network. It is to be noted that same `train_test_split` should be u
 To evaluate the performance and save the retrieved samples:<br>
   `$ python eval.py --k=20 --interval=10`
 
-Train and test splits are provided [here](https://drive.google.com/open?id=13D3zrX0D0vr4Uz6aiZ9H9bsBr6No3vbm)
+Train and test splits for UCMD are provided [here](https://drive.google.com/open?id=13D3zrX0D0vr4Uz6aiZ9H9bsBr6No3vbm)
 
 ## Citation
 If you find this code useful for your research, please cite our [paper](https://ieeexplore.ieee.org/abstract/document/8518381)
