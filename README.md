@@ -1,9 +1,9 @@
 # MHCLN - Deep Metric and Hash Code Learning Network
 
-Code for [paper](https://www.igarss2018.org/Papers/viewpapers.asp?papernum=3006) 
+Code for [paper](https://ieeexplore.ieee.org/abstract/document/8518381) 
 **DEEP METRIC AND HASH-CODE LEARNING FOR CONTENT-BASED RETRIEVAL OF REMOTE SENSING IMAGES** 
 accepted in the International Conference on Geoscience and Remote Sensing Symposium (**IGARSS**) 
-to be held in *Valencia, Spain* in July, 2018.
+held in *Valencia, Spain* in July, 2018.
 
 # Overall Architecture of MHCLN
 
@@ -44,6 +44,20 @@ To evaluate the performance and save the retrieved samples:<br>
   `$ python eval.py --k=20 --interval=10`
 
 Train and test splits are provided [here](https://drive.google.com/open?id=13D3zrX0D0vr4Uz6aiZ9H9bsBr6No3vbm)
+
+## Citation
+If you find this code useful for your research, please cite our [paper](https://ieeexplore.ieee.org/abstract/document/8518381)
+```
+@inproceedings{roy2018deep,
+  title={Deep metric and hash-code learning for content-based retrieval of remote sensing images},
+  author={Roy, Subhankar and Sangineto, Enver and Demir, Beg{\"u}m and Sebe, Nicu},
+  booktitle={IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={4539--4542},
+  year={2018},
+  organization={IEEE}
+}
+```
+
 # Retrieval Results  
 Retrieval results for some sample query images. The query is enclosed by the blue box. The retrieved images are sorted in decreasing order of *proximity* or *semantic similarity* from the query image. Top 19 results are displayed.  
 
