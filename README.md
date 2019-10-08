@@ -24,7 +24,7 @@ First, download [UCMD](http://weegee.vision.ucmerced.edu/datasets/landuse.html) 
 
 N.B.: Code for the respective data sets have been provided in separate folders.
 
-Next, download the pre-trained Tensorflow models following the instructions in [this](https://www.tensorflow.org/tutorials/image_recognition) page.
+Next, download the pre-trained InceptionV3 Tensorflow model from this [link](https://drive.google.com/file/d/1FFMU1vIEPveJAzTb237wg3f019pvrvUq/view?usp=sharing).
 
 To extract the feature representations from a pre-trained model:  <br>
   `$ python extract_features.py \`  
