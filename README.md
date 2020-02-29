@@ -9,7 +9,7 @@ and [Journal extension paper](https://ieeexplore.ieee.org/document/9013091)
 **Metric-Learning-Based Deep Hashing Network for Content-Based Retrieval of Remote Sensing Images**
 accepted at IEEE Geoscience and Remote Sensing Letters (**GRSL**)
 
-# Overall Architecture of MiLaN/MHCLN
+# Overall Architecture of MiLaN
 
 ![Overall Architecture of MiLaN](./UCMD/imgs/overview.png)
 
