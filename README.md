@@ -5,6 +5,10 @@ Code for [paper](https://ieeexplore.ieee.org/abstract/document/8518381)
 accepted in the International Conference on Geoscience and Remote Sensing Symposium (**IGARSS**) 
 held in *Valencia, Spain* in July, 2018.
 
+and [Journal extension paper](https://ieeexplore.ieee.org/document/9013091)
+**Metric-Learning-Based Deep Hashing Network for Content-Based Retrieval of Remote Sensing Images**
+accepted at IEEE Geoscience and Remote Sensing Letters (**GRSL**)
+
 # Overall Architecture of MHCLN
 
 ![Overall Architecture og MHCLN](./UCMD/imgs/overview_mhcln.png)
@@ -46,7 +50,7 @@ To evaluate the performance and save the retrieved samples:<br>
 Train and test splits for UCMD are provided [here](https://drive.google.com/open?id=13D3zrX0D0vr4Uz6aiZ9H9bsBr6No3vbm)
 
 ## Citation
-If you find this code useful for your research, please cite our [paper](https://ieeexplore.ieee.org/abstract/document/8518381)
+If you find this code useful for your research, please cite our [IGARSS paper](https://ieeexplore.ieee.org/abstract/document/8518381) or [GRSL paper](https://ieeexplore.ieee.org/document/9013091)
 ```
 @inproceedings{roy2018deep,
   title={Deep metric and hash-code learning for content-based retrieval of remote sensing images},
@@ -55,6 +59,13 @@ If you find this code useful for your research, please cite our [paper](https://
   pages={4539--4542},
   year={2018},
   organization={IEEE}
+}
+
+@article{roy2019metric,
+  title={Metric-learning based deep hashing network for content based retrieval of remote sensing images},
+  author={Roy, Subhankar and Sangineto, Enver and Demir, Beg{\"u}m and Sebe, Nicu},
+  journal={arXiv preprint arXiv:1904.01258},
+  year={2019}
 }
 ```
 
