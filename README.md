@@ -11,7 +11,7 @@ accepted at IEEE Geoscience and Remote Sensing Letters (**GRSL**)
 
 # Overall Architecture of MHCLN
 
-![Overall Architecture og MHCLN](./UCMD/imgs/overview_mhcln.png)
+![Overall Architecture of MiLaN](./UCMD/imgs/overview.png)
 
 # Prerequisites
 - Python 2.7
