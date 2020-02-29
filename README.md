@@ -1,4 +1,4 @@
-# MHCLN - Deep Metric and Hash Code Learning Network
+# MiLaN - Metric Learning based Deep Hashing Network for Content Based Image Retrieval
 
 Code for [paper](https://ieeexplore.ieee.org/abstract/document/8518381) 
 **DEEP METRIC AND HASH-CODE LEARNING FOR CONTENT-BASED RETRIEVAL OF REMOTE SENSING IMAGES** 
@@ -9,7 +9,7 @@ and [Journal extension paper](https://ieeexplore.ieee.org/document/9013091)
 **Metric-Learning-Based Deep Hashing Network for Content-Based Retrieval of Remote Sensing Images**
 accepted at IEEE Geoscience and Remote Sensing Letters (**GRSL**)
 
-# Overall Architecture of MHCLN
+# Overall Architecture of MiLaN/MHCLN
 
 ![Overall Architecture of MiLaN](./UCMD/imgs/overview.png)
 
