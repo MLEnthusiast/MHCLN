@@ -19,7 +19,7 @@ accepted at IEEE Geoscience and Remote Sensing Letters (**GRSL**)
 - Scipy 1.1.0
 - Pillow 5.1.0
 
-**N.B.** The code has only been tested with Python 2.7 and Tensorflow GPU 1.2.0. Higher versions of the software should also work properly.
+**N.B.** The code has only been tested with Python 2.7 and Tensorflow GPU 1.2.0. Higher versions of the software have not been tested.
 
 In our paper we have experimented with two remote sensing benchmark archives - [**UC Merced Data Set**](http://weegee.vision.ucmerced.edu/datasets/landuse.html) (UCMD) and [**AID**](https://arxiv.org/abs/1608.05167).  
 
