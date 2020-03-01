@@ -5,9 +5,9 @@ Code for [paper](https://ieeexplore.ieee.org/abstract/document/8518381)
 accepted in the International Conference on Geoscience and Remote Sensing Symposium (**IGARSS**) 
 held in *Valencia, Spain* in July, 2018.
 
-and [Journal extension paper](https://ieeexplore.ieee.org/document/9013091)
+and [Journal extension paper](https://arxiv.org/abs/1904.01258)
 **Metric-Learning-Based Deep Hashing Network for Content-Based Retrieval of Remote Sensing Images**
-accepted at IEEE Geoscience and Remote Sensing Letters (**GRSL**). [arxiv](https://arxiv.org/abs/1904.01258)
+accepted at IEEE Geoscience and Remote Sensing Letters (**GRSL**).
 
 # Overall Architecture of MiLaN
 
